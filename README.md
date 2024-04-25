@@ -1,4 +1,4 @@
-tesxssfasdfasdfa
+a
 
 # Vulnado - Intentionally Vulnerable Java Application
 
